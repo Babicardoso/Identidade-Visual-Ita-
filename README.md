@@ -1,23 +1,31 @@
-Identidade Visual do Itaú no Figma
-Sobre o projeto
+# Identidade Visual do Itaú no Figma
 
-Este projeto tem como objetivo desenvolver uma reprodução da identidade visual do Itaú utilizando o Figma, explorando seus principais elementos visuais e mantendo uma proposta organizada e consistente.
+## 📌 Sobre o Projeto
 
-Objetivo
+Este projeto tem como objetivo desenvolver uma reprodução da **identidade visual do Itaú** utilizando o **Figma**, explorando seus principais elementos visuais de forma organizada e consistente.
 
-Criar uma identidade visual inspirada na comunicação visual do Itaú, aplicando elementos como:
+## 🎯 Objetivo
 
-Logotipo e símbolo da marca;
-Paleta de cores;
-Tipografia;
-Organização e hierarquia visual;
-Aplicações da identidade em diferentes componentes.
-Ferramenta utilizada
-Figma — utilizado para criação, organização e prototipação dos elementos da identidade visual.
-Desenvolvimento
+Criar uma identidade visual inspirada na comunicação do Itaú, trabalhando elementos como:
 
-Durante o desenvolvimento, foram analisados os principais elementos presentes na comunicação visual da marca para reproduzi-los de forma organizada dentro do Figma. O projeto busca manter a coerência entre cores, tipografia, formas e demais componentes visuais.
+* Logotipo e símbolo da marca;
+* Paleta de cores;
+* Tipografia;
+* Hierarquia visual;
+* Organização dos componentes.
 
-Resultado
+## 🛠️ Ferramenta Utilizada
 
-O resultado consiste em um projeto desenvolvido no Figma reunindo os principais elementos da identidade visual do Itaú, servindo como uma representação visual e estudo de aplicação de marca.
+* **Figma** — utilizado para criação, organização e prototipação dos elementos visuais.
+
+## 🎨 Desenvolvimento
+
+Durante o desenvolvimento, foram analisados os principais elementos presentes na comunicação visual da marca para reproduzi-los no Figma. O projeto busca manter uma identidade visual coerente entre **cores, tipografia, formas e componentes gráficos**.
+
+## 📁 Resultado
+
+O resultado é um projeto desenvolvido no Figma reunindo os principais elementos da identidade visual do Itaú, servindo como um estudo de aplicação e composição visual.
+
+## ⚠️ Observação
+
+Este projeto possui **finalidade acadêmica/educacional** e não possui vínculo oficial com o Itaú.
